@@ -3,7 +3,7 @@ name = "SigmaOS-zoxide"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "zoxide component"
+description = "SigmaOS SigmaOS-zoxide component"
 upstream = []
 
 [contract]
